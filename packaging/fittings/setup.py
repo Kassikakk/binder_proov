@@ -4,6 +4,6 @@ setup(
     name='fittings',
     version='1.0.0',    
     description='Managers for some fitting cases using scipy.curve_fit',
-    packages=['Spectra'],
+    packages=['fittings'],
     install_requires=['numpy', 'scipy']
                       )
